@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "481214188256",
+    "firebase_url": "https://appandroidtest-f3a55-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "appandroidtest-f3a55",
+    "storage_bucket": "appandroidtest-f3a55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481214188256:android:d30a01c386a36eac33de85",
+        "android_client_info": {
+          "package_name": "com.example.firmador"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu5oZ3LwO0TWOyBnMCLd1irnF3W9JICi8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
